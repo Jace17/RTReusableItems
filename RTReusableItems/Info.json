@@ -1,0 +1,12 @@
+﻿{
+  "Id": "RTReusableItems",
+  "DisplayName": "Reusable Items",
+  "Author": "GravitonGamer",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.25.0",
+  "Requirements": [],
+  "AssemblyName": "RTReusableItems.dll",
+  "EntryMethod": "RTReusableItems.Main.Load",
+  "HomePage": "https://github.com/Jace17/RTReusableItems",
+  "Repository": "https://github.com/Jace17/RTReusableItems"
+}
