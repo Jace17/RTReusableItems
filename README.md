@@ -1,4 +1,4 @@
-# Rogue Trader Reusable Items
+# Reusable Items
 A mod for Rogue Trader which does the following:
 - Makes all consumable items not disappear from the inventory after they reach 0 charges. 
 - Replenishes all charges of consumable items after combat or after rest.
